@@ -39,7 +39,7 @@ html{
   color=#cccaca;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  margin-bottom: 4rem;
+  margin-bottom: 4rem;    /*instead of writing this you can write it as margin : 2rem 0rem 4rem */
   margin-top: 2rem;
   font-size: 2rem;
   font-weight:300;
